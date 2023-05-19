@@ -5,4 +5,8 @@
 •Plotted histograms of the calculated frame differences to gain insights into their distributions By analyzing the distributions and characteristics of the frame differences, I established threshold values that enable real-time analysis while minimizing script complexity.
 •Incorporated a text overlay on the video feed to display the number of occupied parking spots in real-time. This additional feature enhances the system's usability and provides immediate information to users
 
-![Alt Text](https://drive.google.com/file/d/1sEZWpxCYA7n69NX_WnyVBFtaj1woWAby/view?usp=share_link)
+<video width="640" height="360" controls>
+  <source src="https://drive.google.com/file/d/1sEZWpxCYA7n69NX_WnyVBFtaj1woWAby/view?usp=share_link" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
